@@ -1,0 +1,2 @@
+rm Greedy* 
+rm SolutionMappingGreedy-*
