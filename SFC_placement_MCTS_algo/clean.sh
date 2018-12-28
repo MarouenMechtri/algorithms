@@ -1,0 +1,2 @@
+rm MCTS* 
+rm SolutionMappingMCTS-*
