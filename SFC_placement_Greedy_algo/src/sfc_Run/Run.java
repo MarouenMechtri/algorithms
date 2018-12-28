@@ -62,7 +62,7 @@ public class Run {
 
 		System.out.println("(1) If you are running the Run.java file with eclipse, please add the line bellow in the Program arguments:");
 		System.out.println("reqsize=3");
-		System.out.println("(2) If you are running the sfc_dp_algo.jar file, please use the following command:");
+		System.out.println("(2) If you are running the sfc_greedy_algo.jar file, please use the following command:");
 		System.out.println("java -Xmx20g -jar sfc_greedy_algo.jar reqsize=3");
 		int nbIGnodes = -1;
 		
