@@ -39,7 +39,7 @@ Inputs and Output of the placement algorithms
 
 The inputs of each placement algorithm are:
 
-* The client request is modeled by a graph composed by a set of virtual nodes representing VNF and a set of virtual links connecting them. `instanceIG3-0 <instanceIG3-0>`_ is an example of a request composed by 3 VNFs and 2 links and representing a service chain::
+* The client request is modeled by a graph composed by a set of virtual nodes representing VNF and a set of virtual links connecting them. `instanceIG3-0 <https://raw.githubusercontent.com/MarouenMechtri/algorithms/master/SFC_placement_DP_algos/instanceIG3-0>`_ is an example of a request composed by 3 VNFs and 2 links and representing a service chain::
 
    Number of Servers
    3 1 1
@@ -51,7 +51,7 @@ The inputs of each placement algorithm are:
    0 1 100
    1 2 100
 
-* The substrate graph is modeled also by a graph. `instanceRG13-0 <instanceRG13-0>`_ is an example of a substrate infrastructure.
+* The substrate graph is modeled also by a graph. `instanceRG15-0 <https://raw.githubusercontent.com/MarouenMechtri/algorithms/master/SFC_placement_DP_algos/instanceRG15-0>`_ is an example of a substrate infrastructure.
 
 The output of the algorithms is a file containing the mapping result of the client request on the substrate infrastructure. The file name of the algorithm output has this format: SolutionMappingALGO-SUBSTRATE_FILE_NAME-REQUEST_FILE_NAME. For example, when executing the dynamic programming algorithm the output file name is SolutionMappingDP-instanceRG13-0-instanceIG3-0.
 
