@@ -53,6 +53,10 @@ The inputs of each placement algorithm are:
 
 * The substrate graph is modeled also by a graph. `instanceRG15-0 <https://raw.githubusercontent.com/MarouenMechtri/algorithms/master/SFC_placement_DP_algos/instanceRG15-0>`_ is an example of a substrate infrastructure.
 
-The output of the algorithms is a file containing the mapping result of the client request on the substrate infrastructure. The file name of the algorithm output has this format: SolutionMappingALGO-SUBSTRATE_FILE_NAME-REQUEST_FILE_NAME. For example, when executing the dynamic programming algorithm the output file name is SolutionMappingDP-instanceRG13-0-instanceIG3-0.
+The output of the algorithms is a file containing the mapping result of the client request on the substrate infrastructure. The file name of the algorithm output has this format: 
+
+SolutionMappingALGO-SUBSTRATE_FILE_NAME-REQUEST_FILE_NAME. 
+
+For example, when executing the dynamic programming algorithm the output file name is SolutionMappingDP-instanceRG13-0-instanceIG3-0.
 
 
