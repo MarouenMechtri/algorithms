@@ -27,15 +27,15 @@ The objective of these optimization algorithms is to place VMs or VNFs intellige
 
 These algorithms are: 
 
-============================================================= ============ =======
-Folders                                                       Algorithms    Publications
-============================================================= ============ =======
-`SFC_placement_DP_algos <SFC_placement_DP_algos>`_            N/A          Biros
-`SFC_placement_Eigen_algo <SFC_placement_Eigen_algo>`_        42           piskoty
-`SFC_placement_MCTS_algo <SFC_placement_MCTS_algo>`_          N/A          beton
-`SFC_placement_ILP_algo <SFC_placement_ILP_algo>`_            42           piskoty
-`SFC_placement_Greedy_algo <SFC_placement_Greedy_algo>`_      N/A          beton
-============================================================= ============ =======
+============================================================= ===================================================== =======
+Folders                                                       Algorithms                                            Publications
+============================================================= ===================================================== =======
+`SFC_placement_DP_algos <SFC_placement_DP_algos>`_            Dynamic Programming algorithms                        Biros
+`SFC_placement_Eigen_algo <SFC_placement_Eigen_algo>`_        An Eigendecomposition-based algorithm                 piskoty
+`SFC_placement_MCTS_algo <SFC_placement_MCTS_algo>`_          An algorithm based on Monte Carlo Tree Search (MCTS)  beton
+`SFC_placement_ILP_algo <SFC_placement_ILP_algo>`_            An Integer Linear Programming (ILP) model             piskoty
+`SFC_placement_Greedy_algo <SFC_placement_Greedy_algo>`_      A Greedy algorithm                                    beton
+============================================================= ===================================================== =======
 
 1. An Eigendecomposition-based algorithm: `A Scalable Algorithm for the Placement of Service Function Chains <https://www.researchgate.net/publication/305821223_A_Scalable_Algorithm_for_the_Placement_of_Service_Function_Chains>`_
 2. A Dynamic Programming algorithm: `A Dynamic Programming Algorithm for Joint VNF Placement and Chaining <https://www.researchgate.net/publication/311313588_A_Dynamic_Programming_Algorithm_for_Joint_VNF_Placement_and_Chaining>`_
