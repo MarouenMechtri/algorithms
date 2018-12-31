@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/opt/ibm/ILOG/CPLEX_Studio128/cplex/bin/x86-64_linux"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jblas/jblas-1.2.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/opt/ibm/ILOG/CPLEX_Studio128/cplex/lib/cplex.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
