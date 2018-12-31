@@ -27,6 +27,16 @@ The objective of these optimization algorithms is to place VMs or VNFs intellige
 
 These algorithms are: 
 
+========================= ============ =======
+Folder                    Algorithm    Publications
+========================= ============ =======
+SFC_placement_DP_algos      N/A          Biros
+SFC_placement_Eigen_algo      42           piskoty
+SFC_placement_MCTS_algo      N/A          beton
+SFC_placement_ILP_algo      42           piskoty
+SFC_placement_Greedy_algo      N/A          beton
+========================= ============ =======
+
 1. An Eigendecomposition-based algorithm: `A Scalable Algorithm for the Placement of Service Function Chains <https://www.researchgate.net/publication/305821223_A_Scalable_Algorithm_for_the_Placement_of_Service_Function_Chains>`_
 2. A Dynamic Programming algorithm: `A Dynamic Programming Algorithm for Joint VNF Placement and Chaining <https://www.researchgate.net/publication/311313588_A_Dynamic_Programming_Algorithm_for_Joint_VNF_Placement_and_Chaining>`_
 3. A Greedy algorithm: `VNF Placement and Chaining in Distributed Cloud <https://www.researchgate.net/publication/312570696_VNF_Placement_and_Chaining_in_Distributed_Cloud>`_
