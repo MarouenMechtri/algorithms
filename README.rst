@@ -30,18 +30,18 @@ These algorithms are:
 ============================================================= ===================================================== =======
 Folders                                                       Algorithms                                            Publications
 ============================================================= ===================================================== =======
-`SFC_placement_DP_algos <SFC_placement_DP_algos>`_            Dynamic Programming algorithms                        Biros
-`SFC_placement_Eigen_algo <SFC_placement_Eigen_algo>`_        An Eigendecomposition-based algorithm                 piskoty
-`SFC_placement_MCTS_algo <SFC_placement_MCTS_algo>`_          An algorithm based on Monte Carlo Tree Search (MCTS)  beton
-`SFC_placement_ILP_algo <SFC_placement_ILP_algo>`_            An Integer Linear Programming (ILP) model             piskoty
-`SFC_placement_Greedy_algo <SFC_placement_Greedy_algo>`_      A Greedy algorithm                                    beton
+`SFC_placement_DP_algos <SFC_placement_DP_algos>`_            Dynamic Programming algorithms                        1
+`SFC_placement_Eigen_algo <SFC_placement_Eigen_algo>`_        An Eigendecomposition-based algorithm                 2
+`SFC_placement_MCTS_algo <SFC_placement_MCTS_algo>`_          An algorithm based on Monte Carlo Tree Search (MCTS)  3
+`SFC_placement_ILP_algo <SFC_placement_ILP_algo>`_            An Integer Linear Programming (ILP) model             4
+`SFC_placement_Greedy_algo <SFC_placement_Greedy_algo>`_      A Greedy algorithm                                    5
 ============================================================= ===================================================== =======
 
-1. An Eigendecomposition-based algorithm: `A Scalable Algorithm for the Placement of Service Function Chains <https://www.researchgate.net/publication/305821223_A_Scalable_Algorithm_for_the_Placement_of_Service_Function_Chains>`_
-2. A Dynamic Programming algorithm: `A Dynamic Programming Algorithm for Joint VNF Placement and Chaining <https://www.researchgate.net/publication/311313588_A_Dynamic_Programming_Algorithm_for_Joint_VNF_Placement_and_Chaining>`_
-3. A Greedy algorithm: `VNF Placement and Chaining in Distributed Cloud <https://www.researchgate.net/publication/312570696_VNF_Placement_and_Chaining_in_Distributed_Cloud>`_
-4. An algorithm based on the Monte Carlo Tree Search (MCTS): `An Efficient Algorithm for Virtual Network Function Placement and Chaining <https://www.researchgate.net/publication/318579373_An_efficient_algorithm_for_virtual_network_function_placement_and_chaining>`_
-5. An Integer Linear Programming (ILP) model: `A green VNFs placement and chaining algorithm <https://www.researchgate.net/publication/326275787_A_green_VNFs_placement_and_chaining_algorithm>`_ , `A Green VNF-FG Embedding Algorithm <https://www.researchgate.net/publication/327635874_A_Green_VNF-FG_Embedding_Algorithm>`_
+1. A Dynamic Programming algorithm: `A Dynamic Programming Algorithm for Joint VNF Placement and Chaining <https://www.researchgate.net/publication/311313588_A_Dynamic_Programming_Algorithm_for_Joint_VNF_Placement_and_Chaining>`_
+2. An Eigendecomposition-based algorithm: `A Scalable Algorithm for the Placement of Service Function Chains <https://www.researchgate.net/publication/305821223_A_Scalable_Algorithm_for_the_Placement_of_Service_Function_Chains>`_
+3. An algorithm based on the Monte Carlo Tree Search (MCTS): `An Efficient Algorithm for Virtual Network Function Placement and Chaining <https://www.researchgate.net/publication/318579373_An_efficient_algorithm_for_virtual_network_function_placement_and_chaining>`_
+4. An Integer Linear Programming (ILP) model: `A green VNFs placement and chaining algorithm <https://www.researchgate.net/publication/326275787_A_green_VNFs_placement_and_chaining_algorithm>`_ , `A Green VNF-FG Embedding Algorithm <https://www.researchgate.net/publication/327635874_A_Green_VNF-FG_Embedding_Algorithm>`_
+5. A Greedy algorithm: `VNF Placement and Chaining in Distributed Cloud <https://www.researchgate.net/publication/312570696_VNF_Placement_and_Chaining_in_Distributed_Cloud>`_
 
 
 Inputs and Output of the placement algorithms
