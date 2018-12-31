@@ -1,0 +1,2 @@
+rm Eigen* 
+rm SolutionMappingEigen-*
